@@ -138,4 +138,11 @@ Depois troque `pn_dir='afdb'` por `dir_name='afdb_local'` nas chamadas `rdheader
 
 ## Autores
 
-Grupo 4 - João Victor Lemes, Bryan, Felippe Teixeira, Victor Bueno, Felipe Maciel · Universidade Tecnológica Federal do Paraná
+Grupo 4 - 
+João Victor Lemes - joaovictorcardoso@alunos.utfpr.edu.br
+Bryan - bryanesteves@alunos.utfpr.edu.br 
+Felippe Teixeira - felippepedroso@alunos.utfpr.edu.br
+Victor Bueno - Vitoli.2006@alunos.utfpr.edu.br
+Felipe Maciel - felipegoncalvesmaciel@alunos.utfpr.edu.br
+
+Universidade Tecnológica Federal do Paraná
