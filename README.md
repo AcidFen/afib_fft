@@ -138,8 +138,4 @@ Depois troque `pn_dir='afdb'` por `dir_name='afdb_local'` nas chamadas `rdheader
 
 ## Autores
 
-**[PREENCHER: nomes dos integrantes do grupo]** · **[PREENCHER: instituição e disciplina]**
-
-## Licença
-
-**[PREENCHER: por exemplo, MIT]**
+Grupo 4 - João Victor Lemes, Bryan, Felippe Teixeira, Victor Bueno, Felipe Maciel · Universidade Tecnológica Federal do Paraná
